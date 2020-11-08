@@ -4,7 +4,7 @@ NLP is the technology which using computer manipulation of natural language, the
 Technologies based on NLP are becoming increasingly widespread. It is important for scientific, economic, social, and cultural reasons. 
 
 **INFO-Y-004**
-It is the natural language processing course in VUB, it includes two pratical assignments, programming in Python.
+It is the natural language processing course in VUB, it includes two home assignments, programming in Python.
 - Sentiment Analysis: [Assignment1](https://github.com/yanzhang81/nlp/tree/master/INFO-Y-004/Assignment1)
 - Implement a CRF model to extract semantic frames from the CALOR corpus: [Assignment2](https://github.com/yanzhang81/nlp/tree/master/INFO-Y-004/Assignment2)
 
